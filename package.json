@@ -1,0 +1,17 @@
+{
+  "name": "epl-device",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "try": "node test.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.19"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
